@@ -8,6 +8,7 @@ March 16, 2022 by sumedh Ambhore
 * Employee.java
 * EmpRepo.java
 * EmpService.java
+
 * HTML Code
 * add_emp.html
 * edit.html
@@ -16,3 +17,8 @@ March 16, 2022 by sumedh Ambhore
 * pom.xml
 * Conclusion
 
+## Spring Boot Crud Example Prerequisite
+
+* Spring tool suite (STS) IDE
+* Mysql Database
+* mysql Workbench
