@@ -43,3 +43,8 @@ March 16, 2022 by sumedh Ambhore
 <p align="center">
   <img src="Image/edit.jpeg" width="auto" alt="accessibility text">
 </p>
+
+## Conclusion
+Software for employee management systems helps your organization improve workforce productivity and boost overall well-being by tracking and monitoring the daily working activities of every employee
+
+
